@@ -1,0 +1,7 @@
+C:\Users\langu\source\repos\Bevanda\Bevanda\bin\Debug\Bevanda.exe.config
+C:\Users\langu\source\repos\Bevanda\Bevanda\bin\Debug\Bevanda.exe
+C:\Users\langu\source\repos\Bevanda\Bevanda\bin\Debug\Bevanda.pdb
+C:\Users\langu\source\repos\Bevanda\Bevanda\obj\Debug\Bevanda.csprojAssemblyReference.cache
+C:\Users\langu\source\repos\Bevanda\Bevanda\obj\Debug\Bevanda.csproj.CoreCompileInputs.cache
+C:\Users\langu\source\repos\Bevanda\Bevanda\obj\Debug\Bevanda.exe
+C:\Users\langu\source\repos\Bevanda\Bevanda\obj\Debug\Bevanda.pdb
